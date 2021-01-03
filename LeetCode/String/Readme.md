@@ -12,24 +12,24 @@ Organized Leetcode tasks for String
 - [x] 58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) :green_circle:
 - [x] 125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) :green_circle:
 - [x] 151. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) :orange_circle:
-- [ ] 165. Compare Version Numbers :orange_circle:
-- [x] 205. Isomorphic Strings :green_circle:
-- [x] 242. Valid Anagram :green_circle:
-- [x] 290. Word Pattern :green_circle:
-- [x] 344. Reverse String :green_circle:
-- [x] 345. Reverse Vowels of a String :green_circle:
-- [x] 383. Ransom Note :green_circle:
-- [x] 387. First Unique Character in a String :green_circle:
-- [x] 409. Longest Palindrome :green_circle:
-- [x] 434. Number of Segments in a String :green_circle:
-- [x] 438. Find All Anagrams in a String :orange_circle:
+- [ ] 165. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) :orange_circle:
+- [x] 205. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) :green_circle:
+- [x] 242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) :green_circle:
+- [x] 290. [Word Pattern](https://leetcode.com/problems/word-pattern/) :green_circle:
+- [x] 344. [Reverse String](https://leetcode.com/problems/reverse-string/) :green_circle:
+- [x] 345. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) :green_circle:
+- [x] 383. [Ransom Note](https://leetcode.com/problems/ransom-note/) :green_circle:
+- [x] 387. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) :green_circle:
+- [x] 409. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) :green_circle:
+- [x] 434. [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) :green_circle:
+- [x] 438. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) :orange_circle:
 - [x] 443. [String Compression](https://leetcode.com/problems/string-compression/) :orange_circle: 
-- [x] 459. Repeated Substring Pattern :green_circle:
-- [x] 482. License Key Formatting :green_circle:
-- [x] 500. Keyboard Row :green_circle:
-- [x] 520. Detect Capital :green_circle:
-- [ ] 539. Minimum Time Difference :orange_circle:
-- [x] 541. Reverse String II :green_circle:
+- [x] 459. [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) :green_circle:
+- [x] 482. [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) :green_circle:
+- [x] 500. [Keyboard Row](https://leetcode.com/problems/keyboard-row/) :green_circle:
+- [x] 520. [Detect Capital](https://leetcode.com/problems/detect-capital/) :green_circle:
+- [ ] 539. [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) :orange_circle:
+- [x] 541. [Reverse String II](https://leetcode.com/problems/reverse-string-ii) :green_circle:
 - [x] 551. Student Attendance Record I :green_circle:
 - [x] 557. Reverse Words in a String III :green_circle:
 - [ ] 657. Robot Return to Origin :green_circle:
