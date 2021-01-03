@@ -23,7 +23,9 @@ Organized Leetcode tasks for String
 - [ ] 409. Longest Palindrome
 - [ ] 434. Number of Segments in a String
 - [ ] 438. Find All Anagrams in a String
-- [ ] 443. [String Compression](https://leetcode.com/problems/string-compression/) :orange_circle: [solution](https://github.com/XyK0907/for_work/blob/master/LeetCode/String/443_string_compression.py) [cool_solution](https://github.com/XyK0907/for_work/blob/master/LeetCode/String/443_cool_solution.py)
+- [x] 443. [String Compression](https://leetcode.com/problems/string-compression/) :orange_circle: 
+      [solution](https://github.com/XyK0907/for_work/blob/master/LeetCode/String/443_string_compression.py) 
+      [cool_solution](https://github.com/XyK0907/for_work/blob/master/LeetCode/String/443_cool_solution.py)
 - [ ] 459. Repeated Substring Pattern
 - [ ] 482. License Key Formatting
 - [ ] 500. Keyboard Row
