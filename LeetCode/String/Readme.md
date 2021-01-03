@@ -3,15 +3,15 @@ Organized Leetcode tasks for String
 
 ## Task list
 
-- [x] 3. Longest Substring Without Repeating Characters :orange_circle:
-- [x] 14. Longest Common Prefix :green_circle:
-- [ ] 17. Letter Combinations of a Phone Number :orange_circle:
-- [x] 20. Valid Parentheses :green_circle:
-- [x] 28. Implement strStr() :green_circle:
-- [x] 38. Count and Say :green_circle:
-- [x] 58. Length of Last Word :green_circle:
-- [x] 125. Valid Palindrome :green_circle:
-- [x] 151. Reverse Words in a String :orange_circle:
+- [x] 3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) :orange_circle:
+- [x] 14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) :green_circle:
+- [ ] 17. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) :orange_circle:
+- [x] 20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) :green_circle:
+- [x] 28. [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) :green_circle:
+- [x] 38. [Count and Say](https://leetcode.com/problems/count-and-say/description/) :green_circle:
+- [x] 58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) :green_circle:
+- [x] 125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) :green_circle:
+- [x] 151. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) :orange_circle:
 - [ ] 165. Compare Version Numbers :orange_circle:
 - [x] 205. Isomorphic Strings :green_circle:
 - [x] 242. Valid Anagram :green_circle:
@@ -24,8 +24,6 @@ Organized Leetcode tasks for String
 - [x] 434. Number of Segments in a String :green_circle:
 - [x] 438. Find All Anagrams in a String :orange_circle:
 - [x] 443. [String Compression](https://leetcode.com/problems/string-compression/) :orange_circle: 
-      [solution](https://github.com/XyK0907/for_work/blob/master/LeetCode/String/443_string_compression.py) /
-      [cool_solution](https://github.com/XyK0907/for_work/blob/master/LeetCode/String/443_cool_solution.py)
 - [x] 459. Repeated Substring Pattern :green_circle:
 - [x] 482. License Key Formatting :green_circle:
 - [x] 500. Keyboard Row :green_circle:
