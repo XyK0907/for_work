@@ -30,30 +30,30 @@ Organized Leetcode tasks for String
 - [x] 520. [Detect Capital](https://leetcode.com/problems/detect-capital/) :green_circle:
 - [ ] 539. [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) :orange_circle:
 - [x] 541. [Reverse String II](https://leetcode.com/problems/reverse-string-ii) :green_circle:
-- [x] 551. Student Attendance Record I :green_circle:
-- [x] 557. Reverse Words in a String III :green_circle:
-- [ ] 657. Robot Return to Origin :green_circle:
-- [x] 678. Valid Parenthesis String :orange_circle:
-- [x] 680. Valid Palindrome II :green_circle:
-- [ ] 696. Count Binary Substrings :green_circle:
-- [x] 709. To Lower Case :green_circle:
-- [x] 771. Jewels and Stones :green_circle:
-- [ ] 777. Swap Adjacent in LR String :orange_circle:
-- [ ] 784. Letter Case Permutation :orange_circle:
-- [x] 788. Rotated Digits :green_circle:
-- [ ] 791. Custom Sort String :orange_circle:
-- [x] 796. Rotate String :green_circle:
-- [x] 804. Unique Morse Code Words :green_circle:
-- [x] 806. Number of Lines To Write String :green_circle:
-- [ ] 809. Expressive Words :orange_circle:
-- [x] 819. Most Common Word :green_circle:
-- [x] 821. Shortest Distance to a Character :green_circle:
-- [x] 824. Goat Latin :green_circle:
-- [ ] 833. Find And Replace in String :orange_circle:
-- [x] 844. Backspace String Compare :green_circle:
-- [x] 859. Buddy Strings :green_circle:
-- [ ] 890. Find and Replace Pattern :orange_circle:
-- [ ] 893. Groups of Special-Equivalent Strings :green_circle:
+- [x] 551. [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) :green_circle:
+- [x] 557. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) :green_circle:
+- [ ] 657. [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) :green_circle:
+- [x] 678. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) :orange_circle:
+- [x] 680. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) :green_circle:
+- [ ] 696. [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) :green_circle:
+- [x] 709. [To Lower Case](https://leetcode.com/problems/to-lower-case/) :green_circle:
+- [x] 771. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) :green_circle:
+- [ ] 777. [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) :orange_circle:
+- [ ] 784. [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) :orange_circle:
+- [x] 788. [Rotated Digits](https://leetcode.com/problems/rotated-digits/) :green_circle:
+- [ ] 791. [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) :orange_circle:
+- [x] 796. [Rotate String](https://leetcode.com/problems/rotate-string/) :green_circle:
+- [x] 804. [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) :green_circle:
+- [x] 806. [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) :green_circle:
+- [ ] 809. [Expressive Words](https://leetcode.com/problems/expressive-words/) :orange_circle:
+- [x] 819. [Most Common Word](https://leetcode.com/problems/most-common-word/) :green_circle:
+- [x] 821. [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) :green_circle:
+- [x] 824. [Goat Latin](https://leetcode.com/problems/goat-latin/) :green_circle:
+- [ ] 833. [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) :orange_circle:
+- [x] 844. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) :green_circle:
+- [x] 859. [Buddy Strings](https://leetcode.com/problems/buddy-strings/) :green_circle:
+- [ ] 890. [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) :orange_circle:
+- [ ] 893. [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) :green_circle:
 - [x] 917. Reverse Only Letters :green_circle:
 - [x] 921. Minimum Add to Make Parentheses Valid :orange_circle:
 - [ ] 925. Long Pressed Name :green_circle:
