@@ -54,24 +54,24 @@ Organized Leetcode tasks for String
 - [x] 859. [Buddy Strings](https://leetcode.com/problems/buddy-strings/) :green_circle:
 - [ ] 890. [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) :orange_circle:
 - [ ] 893. [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) :green_circle:
-- [x] 917. Reverse Only Letters :green_circle:
-- [x] 921. Minimum Add to Make Parentheses Valid :orange_circle:
-- [ ] 925. Long Pressed Name :green_circle:
-- [x] 929. Unique Email Addresses :green_circle:
-- [ ] 1003. Check If Word Is Valid After Substitutions :orange_circle:
-- [ ] 1023. Binary String With Substrings Representing 1 To N :orange_circle:
-- [ ] 1071. Greatest Common Divisor of Strings :green_circle:
-- [ ] 1106. Parsing A Boolean Expression :orange_circle:
-- [ ] 1156. Swap For Longest Repeated Character Substring :orange_circle:
-- [x] 1309. Decrypt String from Alphabet to Integer Mapping :green_circle:
-- [ ] 1358. Number of Substrings Containing All Three Characters :orange_circle:
-- [ ] 1371. Find the Longest Substring Containing Vowels in Even Counts :orange_circle:
-- [x] 1408. String Matching in an Array :green_circle:
-- [ ] 1419. Minimum Number of Frogs Croaking :orange_circle:
-- [ ] 1545. Find Kth Bit in Nth Binary String :orange_circle:
-- [ ] 1638. Count Substrings That Differ by One Character :orange_circle:
-- [ ] 面试题16.18
-- [ ] 面试题17.15
+- [x] 917. [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) :green_circle:
+- [x] 921. [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) :orange_circle:
+- [ ] 925. [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) :green_circle:
+- [x] 929. [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) :green_circle:
+- [ ] 1003. [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) :orange_circle:
+- [ ] 1023. [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) :orange_circle:
+- [ ] 1071. [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) :green_circle:
+- [ ] 1106. [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) :orange_circle:
+- [ ] 1156. [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) :orange_circle:
+- [x] 1309. [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) :green_circle:
+- [ ] 1358. [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) :orange_circle:
+- [ ] 1371. [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) :orange_circle:
+- [x] 1408. [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) :green_circle:
+- [ ] 1419. [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) :orange_circle:
+- [ ] 1545. [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) :orange_circle:
+- [ ] 1638. [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) :orange_circle:
+- [ ] [面试题16.18](https://leetcode-cn.com/problems/pattern-matching-lcci/)
+- [ ] [面试题17.15](https://leetcode-cn.com/problems/longest-word-lcci/)
 
 
 
