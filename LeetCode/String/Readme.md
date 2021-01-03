@@ -3,7 +3,7 @@ Organized Leetcode tasks for String
 
 ## Task list
 
-- [x] 3. Longest Substring Without Repeating Characters
+- [x] 3. Longest Substring Without Repeating Characters :green_circle:
 - [ ] 14. Longest Common Prefix
 - [ ] 17. Letter Combinations of a Phone Number
 - [ ] 20. Valid Parentheses
@@ -17,13 +17,13 @@ Organized Leetcode tasks for String
 - [ ] 242. Valid Anagram
 - [ ] 290. Word Pattern
 - [ ] 344. Reverse String
-- [ ] 345.Reverse Vowels of a String
+- [ ] 345. Reverse Vowels of a String
 - [ ] 383. Ransom Note
 - [ ] 387. First Unique Character in a String
 - [ ] 409. Longest Palindrome
 - [ ] 434. Number of Segments in a String
 - [ ] 438. Find All Anagrams in a String
-- [ ] 443. String Compression
+- [ ] 443. String Compression :orange_circle: [question](https://leetcode.com/problems/string-compression/) [solution]()
 - [ ] 459. Repeated Substring Pattern
 - [ ] 482. License Key Formatting
 - [ ] 500. Keyboard Row
