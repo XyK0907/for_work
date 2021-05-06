@@ -7,6 +7,7 @@ class ListNode(object):
 class Solution(object):
     def mergeTwoLists(self, l1, l2):
         """
+        iteratively
         :type l1: ListNode
         :type l2: ListNode
         :rtype: ListNodef
@@ -24,6 +25,21 @@ class Solution(object):
         new_node.next = l1 or l2
         return dummy.next
 
+
+    def mergeTwoLists_recursive(self, l1, l2):
+        """
+        :type l1: ListNode
+        :type l2: ListNode
+        :rtype: ListNodef
+        """
+        if not l1 or not l2:
+            return l1 or l2
+        if l1.val < l2.val:
+            l1.next = self.mergeTwoLists(l1.next, l2)
+            return l1
+        else:
+            l2.next = self.mergeTwoLists(l1, l2.next)
+            return l2
 
 
 l1 = ListNode(1)

@@ -1,24 +1,27 @@
 class Solution(object):
-    def removeDuplicates(self, nums):
+    def removeDuplicates_two_pointer(self, nums):
         """
+        time O(n)
+        space O(1)
         :type nums: List[int]
         :rtype: int
         """
         if not nums:
             return 0
-        if len(nums)==1:
-            return 1
-        i = len(nums)-1
-        while i>=0:
-            if nums[i] == nums[i-1]:
-                del nums[i]
-                if len(nums) == 1:
-                    return 1
-            i -=1
-        return len(nums)
+        apointer = 0
+        bpointer = 1
+        while bpointer < len(nums):
+            if nums[bpointer] > nums[apointer]:
+                apointer += 1
+                nums[apointer] = nums[bpointer]
+            bpointer += 1
+        return apointer + 1
+
+
 
     def removeDuplicates_cool_solution(self, nums):
         """
+        two pointer
         :type nums: List[int]
         :rtype: int
         """
@@ -36,4 +39,4 @@ class Solution(object):
 
 if __name__=="__main__":
     solution = Solution()
-    solution.removeDuplicates([1,1,1])
+    print(solution.removeDuplicates_two_pointer([1,1,1, 2,2, 3,3]))

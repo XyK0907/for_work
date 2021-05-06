@@ -20,6 +20,7 @@ class Solution(object):
         """
 
         s.reverse()
+        # return s[::-1]
 
 
 if __name__ == '__main__':
