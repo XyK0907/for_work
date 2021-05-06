@@ -1,0 +1,18 @@
+*.jpg
+*.png
+*.pyc
+*.pdf
+*.json
+*.json*
+*.ckpt*
+*.tar.gz
+*.pkl
+thesis/
+
+# custom settings
+data/JTA/
+lib/nms/cpu_nms.c*
+lib/nms/gpu_nms.c*
+
+# 
+*.idea
