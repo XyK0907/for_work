@@ -10,7 +10,7 @@
 thesis/
 
 # custom settings
-data/JTA/
+.idea
 lib/nms/cpu_nms.c*
 lib/nms/gpu_nms.c*
 
